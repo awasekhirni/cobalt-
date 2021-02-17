@@ -1,0 +1,14 @@
+API metrics	
+1: UptimePermalink	
+2: CPU UsagePermalink	
+3: Memory UsagePermalink	
+4: Request Per Minute (RPM)Permalink	
+5: Average and Max LatencyPermalink	
+6: Errors Per MinutePermalink	
+7: API usage growthPermalink	
+8: Unique API consumersPermalink	
+9: Top customers by API usagePermalink	
+10: API retentionPermalink	
+11: Time to First Hello World (TTFHW)Permalink	
+12: API Calls per business transactionPermalink	
+13: SDK and version adoptionPermalink	
